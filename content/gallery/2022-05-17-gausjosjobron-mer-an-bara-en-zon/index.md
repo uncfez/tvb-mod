@@ -26,5 +26,3 @@ Sex veckor senare var det dags för ännnu en skidtur till zonen efter grabbarna
 Solen sken, magiska vyer och glada skratt från lekande barn innebar att tiden bara flög iväg. Efter några underbara timmar var det så dags att packa ihop och bege oss tillbaka till stugan. Vi var alla tre överens om att vi hade haft en helt fantastisk dag. En utflykt som förmodligen inte blivit av vintertid om det inte kommit en zon dit.
 
 Jag har vandrat upp till Gausjosjö sameviste ett par gånger innan, både sommar och höst, och kan varmt rekommendera att ta sig tiden att gå hela vägen fram till samevistet. Totala sträckan från vägen till samevistet är 2,5 kilometer och uppskattningsvis ligger zonen en kilometer innan samevistet. Sträckan bjuder på många fantastiska vyer och nu dessutom en zon!
-
-/Brellir
