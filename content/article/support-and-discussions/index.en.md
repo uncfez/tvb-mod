@@ -7,7 +7,7 @@ author: "Turf Västerbotten"
 noSummary: true
 ---
 
-Support for this theme is provided through the [Issues](https://github.com/Lednerb/bilberry-hugo-theme/issues) and [Discussions](https://github.com/Lednerb/bilberry-hugo-theme/discussions) sections of the project.
+Yadayada for this theme is provided through the [Issues](https://github.com/Lednerb/bilberry-hugo-theme/issues) and [Discussions](https://github.com/Lednerb/bilberry-hugo-theme/discussions) sections of the project.
 Please use the **Issues** section if you would like to report a defect or bug. For any other requests, use the **Discussions** section.
 
 Please use the following guidelines if you want to start a discussion:

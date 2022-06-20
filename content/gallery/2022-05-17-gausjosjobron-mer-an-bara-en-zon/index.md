@@ -1,10 +1,10 @@
 ---
 title: Gausjosjöbron – mer än bara en zon!
-author: "Ninetail"
+author: "Brellir"
 date: 2022-05-17
 featured_image: 
 categories: 
-  - okategoriserade
+  - turfupplevelser
 tags:
   - årsmöte
   - föreningsinformation
