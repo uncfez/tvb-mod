@@ -1,7 +1,6 @@
 ---
 title: Gausjosjöbron – mer än bara en zon!
-authors: 
-  - Ninetail
+author: "Ninetail"
 date: 2022-05-17
 featured_image: 
 categories: 
