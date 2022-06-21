@@ -1,0 +1,37 @@
+[categories]
+other = "Kategorier"
+
+[authors]
+other = "Författare"
+
+[tags]
+other = "Tags"
+
+[socialMedia]
+other = "Sociala medier"
+
+[latestPosts]
+other = "Senaste inlägg"
+
+[search]
+other = "Sök ..."
+
+[noSearchResults]
+other = "Hittade inget."
+
+[olderPosts]
+other = "Äldre inlägg"
+
+[newerPosts]
+other = "Nyare inlägg"
+
+[continueReading]
+other = "Läs mer"
+
+[otherLanguages]
+other = "Andra språk"
+
+[readingTime]
+one = "1 min läsning"
+other = "{{.Count}} min läsning"
+
