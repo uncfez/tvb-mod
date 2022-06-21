@@ -40,16 +40,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/code
-  label: Code
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/audio
-  label: Audio
-  create: all
-  match: "**/*"
-- type: directory
   path: content/article
   label: Article
   create: all
