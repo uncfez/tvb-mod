@@ -2,10 +2,10 @@ title = "Turf Västerbotten"
 baseURL = "https://tvb1.netlify.app/"
 
 # Option 1 (recommended): adding the theme as a Hugo module
-theme = "github.com/Lednerb/bilberry-hugo-theme/v3"
+# theme = "github.com/Lednerb/bilberry-hugo-theme/v3"
 
 # Option 2: cloning/copying the theme files
-# theme = "bilberry-hugo-theme"
+theme = "bilberry-hugo-theme"
 
 # Generate the robots.txt file for SEO
 enableRobotsTXT = true
@@ -20,6 +20,9 @@ googleAnalytics = ""
 disqusShortname = ""
 
 [params]
+  # Cloudinary 
+  cloudinary_url = "https://res.cloudinary.com/turfvb"
+  
   # Custom CSS / JS modules that will be imported by the template.
   # Files are relative to the static/ directory or a URL.
   # Files are imported in the order they appear here, after
@@ -80,7 +83,7 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "The association for turfers in the Västerbotten region."
+    subtitle = "Föreningen för turfare i region Västerbotten"
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = "code@lednerb.de"
@@ -126,7 +129,7 @@ disqusShortname = ""
 
     # How many articles should be displayed at latest posts in the footer?
     # Set to -1 to hide the 'Latest Posts' column
-    amountLatestPostsInFooter = 7
+    amountLatestPostsInFooter = -1
 
     # How many categories should be displayed in the footer section?
     # Set to -1 to hide the 'Categories' column
@@ -164,12 +167,12 @@ disqusShortname = ""
 # customize your available languages for your multi-lingual site
 # or delete one of the [Languages.xx] blocks to use the theme with only one supported language
 [Languages]
-  [Languages.en]
-    weight = 2
   [Languages.sv]
     weight = 1
+  [Languages.en]
+    weight = 2
     title = "Turf Västerbotten"
-    subtitle = "Föreningen för turfare i region Västerbotten"
+    subtitle = "The association for turfers in the Västerbotten region"
 
 # don't change anything below
 [taxonomies]
