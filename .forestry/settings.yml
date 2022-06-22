@@ -5,13 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content/turftraff
-  label: Turfträffar
+  path: content/article
+  label: Article
   create: all
   match: "**/*"
 - type: directory
-  path: content/trophy
-  label: Trophy
+  path: content/bonanza23
+  label: Bonanza
   create: all
   match: "**/*"
 - type: directory
@@ -20,8 +20,33 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/bonanza23
-  label: Bonanza
+  path: content/gallery
+  label: Gallery
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/link
+  label: Link
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/page
+  label: Page
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/quote
+  label: Quote
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/trophy
+  label: Trophy
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/turftraff
+  label: Turfträffar
   create: all
   match: "**/*"
 - type: directory
@@ -32,31 +57,6 @@ sections:
 - type: directory
   path: content/status
   label: Status
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/quote
-  label: Quote
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/page
-  label: Page
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/link
-  label: Link
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/gallery
-  label: Gallery
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/article
-  label: Article
   create: all
   match: "**/*"
 upload_dir: static/uploads
