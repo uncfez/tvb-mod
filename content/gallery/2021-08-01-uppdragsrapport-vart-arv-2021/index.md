@@ -11,7 +11,7 @@ tags:
 ---
 Det finns kanske lika många sätt att turfa på som det finns turfare. Själv använder jag gärna Turf-appen för att upptäcka nya platser när jag är på resande fot. Jag blir lite extra glad när zonen är intill en historisk eller kulturell sevärdhet. _Vårt Arv_ var därför ett givet uppdrag i Turf Västerbottens klassiker.
 
-![](/v1649799226/tvb/robertsbruk_nqlrnt.jpg)
+![](/v1648486504/cld-sample.jpg)
 
 _Några zoner är förlagda vid eller i ett museiområde. Pass på att gå en runda och titta in i hus eller tåg. På bilden:_ [_RobertsBruk_](https://turfgame.com/map/RobertsBruk) _i Robertsfors. Foto: WombaWomba._
 
