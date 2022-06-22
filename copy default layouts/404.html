@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<div class="content">
+    <div class="article-wrapper u-cf single">
+        <a class="bubble" href="{{ "/" | relLangURL}}">
+            <i class="fa fa-fw fa-exclamation-triangle"></i>
+        </a>
+
+        <article class="error404 article">
+            <div class="content">
+                <h3>SORRY!</h3>
+                <p></p>
+                <p>Detta är defintivt inte sidan du var ute efter...
+                <strong>Det blev Error 404. </strong> Det betyder att sidan inte finns. 
+                Välj en kategori eller gå tillbaka till <a href="{{ "/" | relLangURL}}"> STARTSIDAN</a>. 
+                <p></p>
+                <p>This is definitly not the page you're looking for... 
+                <strong>An Error 404 occured.</strong> That means the page is not available. 
+                Please select a category or go back to the <a href="{{ "/" | relLangURL}}"> HOMEPAGE</a>.</p>
+            </div>
+        </article>
+    </div>
+</div>
+{{ end }}

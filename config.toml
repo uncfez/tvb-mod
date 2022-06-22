@@ -20,7 +20,7 @@ googleAnalytics = ""
 disqusShortname = ""
 
 # Cloudinary 
-cloudinary_url = "https://res.cloudinary.com/turfvb/image/upload/"
+cloudinary_baseurl = "https://res.cloudinary.com/turfvb/image/upload/"
 
 [params]
   # Cloudinary 
