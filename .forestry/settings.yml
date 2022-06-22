@@ -5,10 +5,25 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content
-  label: Pages
+  path: content/turftraff
+  label: Turfträffar
   create: all
-  match: "*"
+  match: "**/*"
+- type: directory
+  path: content/trophy
+  label: Trophy
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/event
+  label: Event
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/bonanza23
+  label: Bonanza
+  create: all
+  match: "**/*"
 - type: directory
   path: content/video
   label: Video
