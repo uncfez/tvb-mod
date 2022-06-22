@@ -9,7 +9,7 @@
         <div class="flexslider">
             <ul class="slides">
                 {{ range .ctx.Params.gallery }}
-                    <li><img alt="{{ $img_alt }}" src="{{ .Site.cloudinary_url }}/c_scale,w_auto:100,dpr_auto/{{ . }}" /></li>
+                    <li><img alt="{{ $img_alt }}" src="{{ . | relURL }}" /></li>
                 {{ end }}
             </ul>
         </div>
