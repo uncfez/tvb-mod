@@ -2,7 +2,10 @@
 title: Gausjosjöbron – mer än bara en zon!
 author: "Brellir"
 date: 2022-05-17
-featured_image: 
+featuredImage: 
+gallery: 
+  - "https://res.cloudinary.com/turfvb/image/upload/c_scale,w_auto:100,dpr_auto/v1649799255/tvb/2022/02/27459207_863984637095414_2836707591140403082_n_itmeyj.jpg"
+  - https://res.cloudinary.com/turfvb/image/upload//c_scale,w_auto:100,dpr_auto/v1648486504/cld-sample.jpg
 categories: 
   - turfupplevelser
 tags:

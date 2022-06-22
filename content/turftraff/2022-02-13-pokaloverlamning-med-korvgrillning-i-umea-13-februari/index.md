@@ -13,6 +13,7 @@ gallery: [
     "https://res.cloudinary.com/turfvb/image/upload/w_1000,ar_16:9,c_fill,g_auto/v1649799255/tvb/2022/02/273075463_1328846557579624_4008131250964012459_n_kgacyq.jpg",
     "https://res.cloudinary.com/turfvb/image/upload/w_1000,ar_16:9,c_fill,g_auto/v1649799255/tvb/2022/02/273479748_613640279738309_2200893421610053260_n_n0eek7.jpg",
 ]
+resizeImages: false
 image: 
   caption: 'Foto: '
 ---
