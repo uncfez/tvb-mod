@@ -2,7 +2,7 @@
 title: "GOD JUL!"
 date: "2021-12-23"
 icon: fa-gifts
-featuredImage: "https://turfvasterbotten.files.wordpress.com/2021/12/godhjul.jpg?w=600"
+featuredImage: /2021/12/godhjul
 categories: 
   - 
 ---

@@ -19,6 +19,9 @@ googleAnalytics = ""
 # Enable / Disable comments on the articles via Disqus.
 disqusShortname = ""
 
+# Cloudinary 
+cloudinary_url = "https://res.cloudinary.com/turfvb"
+
 [params]
   # Cloudinary 
   cloudinary_url = "https://res.cloudinary.com/turfvb"
