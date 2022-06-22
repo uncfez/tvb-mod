@@ -20,11 +20,11 @@ googleAnalytics = ""
 disqusShortname = ""
 
 # Cloudinary 
-cloudinary_url = "https://res.cloudinary.com/turfvb"
+cloudinary_url = "https://res.cloudinary.com/turfvb/image/upload/"
 
 [params]
   # Cloudinary 
-  cloudinary_url = "https://res.cloudinary.com/turfvb"
+  cloudinary_url = "https://res.cloudinary.com/turfvb/image/upload/"
   
   # Custom CSS / JS modules that will be imported by the template.
   # Files are relative to the static/ directory or a URL.
