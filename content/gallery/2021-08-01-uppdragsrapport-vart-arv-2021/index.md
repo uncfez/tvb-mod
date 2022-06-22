@@ -7,7 +7,9 @@ tags:
 - turfaventyr
 - vasterbottens-turf-klassiker
 - vart-arv
-
+gallery: 
+- /v1648486504/cld-sample.jpg
+- 
 ---
 Det finns kanske lika många sätt att turfa på som det finns turfare. Själv använder jag gärna Turf-appen för att upptäcka nya platser när jag är på resande fot. Jag blir lite extra glad när zonen är intill en historisk eller kulturell sevärdhet. _Vårt Arv_ var därför ett givet uppdrag i Turf Västerbottens klassiker.
 
