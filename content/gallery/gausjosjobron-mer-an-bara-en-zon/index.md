@@ -15,7 +15,7 @@ En eftermiddag någon dag senare slutade snön vräka ner och då såg jag möjl
 
 Det var kallt och blåsigt så efter en värmande fikapaus spände vi på oss skidorna igen och återvände till bilen efter avklarat uppdrag.
 
-![](/images/gausjosjobron-1.jpg "Foto: Brellir")
+![](images/gausjosjobron-1.jpg "Foto: Brellir")
 
 Foto: Brellir
 
