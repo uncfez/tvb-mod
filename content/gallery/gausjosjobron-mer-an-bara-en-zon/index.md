@@ -15,7 +15,7 @@ En eftermiddag någon dag senare slutade snön vräka ner och då såg jag möjl
 
 Det var kallt och blåsigt så efter en värmande fikapaus spände vi på oss skidorna igen och återvände till bilen efter avklarat uppdrag.
 
-![](images/gausjosjobron-1.jpg "Foto: Brellir"
+![](images/gausjosjobron-1.jpg "Foto: Brellir")
 
 Sex veckor senare var det dags för ännnu en skidtur till zonen efter grabbarnas önskemål om en dagsutflykt till Gausjosjö. Den här gången hade vi verkligen vädret på vår sida, men plusgraderna gjorde att skidföret även denna gång var av det tyngre slaget. Men med glada miner kämpade vi oss än en gång fram till hängbron! När skidorna åkt av och vi tagit oss över bron var det gott med fika i solskenet. Efter fikat började grabbarna leka i snön, gjorde långa rutschkanor och susade på galonbyxorna nerför backen.
 
@@ -29,9 +29,7 @@ Magiska vyer! Foto: Brellir
 
 ![](images/gausjosjobron-4-1.jpg?w=576 "Foto: Brellir")
 
-Fikande grabbar. Foto: Brellir
-
-![]images/gausjosjobron-5.jpg?w=576)
+![](images/gausjosjobron-5.jpg?w=576)
 
 ![](images/gausjosjobron-6-1.jpg?w=576 "Galonbyxeåkning! Foto: Brellir")
 
