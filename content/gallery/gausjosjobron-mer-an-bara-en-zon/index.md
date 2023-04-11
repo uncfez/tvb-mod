@@ -7,8 +7,6 @@ tags:
   - "turfaventyr"
 ---
 
-\[metaslider id=1946 cssclass=""\]
-
 Nu när sommaren närmar sig med stormsteg och man med lätthet kan gå eller cykla till de flesta zoner utan större hinder kom jag att tänka på en zon som blev mer än bara en vanlig zontagning.
 
 Under sportlovet när jag och mina två barnbarn befann oss uppe i fjällen dök det plötsligt upp en ny zon bara några kilometer bort. Självklart började jag direkt fundera på hur vi skulle kunna ta oss till zonen och om det ens skulle vara möjligt med två barn i åldern 7 och 4,5 år. Zonen Gausjosjöbron ligger efter en vandringsled upp till ett sameviste. Absolut inga problem under den snöfria tiden på året, men när snötäcket ligger tjockt och snön vräker ner är det en större utmaning.
@@ -17,7 +15,7 @@ En eftermiddag någon dag senare slutade snön vräka ner och då såg jag möjl
 
 Det var kallt och blåsigt så efter en värmande fikapaus spände vi på oss skidorna igen och återvände till bilen efter avklarat uppdrag.
 
-![](http://www.turfvasterbotten.se/wp-content/uploads/2022/05/gausjosjobron-1.jpg?w=1024)
+![](/images/gausjosjobron-1.jpg?w=1024 "Foto: Brellir")
 
 Foto: Brellir
 
@@ -25,11 +23,11 @@ Sex veckor senare var det dags för ännnu en skidtur till zonen efter grabbarna
 
 Solen sken, magiska vyer och glada skratt från lekande barn innebar att tiden bara flög iväg. Efter några underbara timmar var det så dags att packa ihop och bege oss tillbaka till stugan. Vi var alla tre överens om att vi hade haft en helt fantastisk dag. En utflykt som förmodligen inte blivit av vintertid om det inte kommit en zon dit.
 
-![](http://www.turfvasterbotten.se/wp-content/uploads/2022/05/gausjosjobron-2.jpg?w=576)
+![](/images/gausjosjobron-2.jpg?w=576 "Foto: Brellir")
 
 Foto: Brellir
 
-![](http://www.turfvasterbotten.se/wp-content/uploads/2022/05/gausjosjobron-3.jpg?w=768)
+![](/images/gausjosjobron-3.jpg?w=768 "Foto: Brellir")
 
 Magiska vyer! Foto: Brellir
 
