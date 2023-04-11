@@ -15,9 +15,7 @@ En eftermiddag någon dag senare slutade snön vräka ner och då såg jag möjl
 
 Det var kallt och blåsigt så efter en värmande fikapaus spände vi på oss skidorna igen och återvände till bilen efter avklarat uppdrag.
 
-![](images/gausjosjobron-1.jpg "Foto: Brellir")
-
-Foto: Brellir
+![](images/gausjosjobron-1.jpg "Foto: Brellir"
 
 Sex veckor senare var det dags för ännnu en skidtur till zonen efter grabbarnas önskemål om en dagsutflykt till Gausjosjö. Den här gången hade vi verkligen vädret på vår sida, men plusgraderna gjorde att skidföret även denna gång var av det tyngre slaget. Men med glada miner kämpade vi oss än en gång fram till hängbron! När skidorna åkt av och vi tagit oss över bron var det gott med fika i solskenet. Efter fikat började grabbarna leka i snön, gjorde långa rutschkanor och susade på galonbyxorna nerför backen.
 
@@ -25,32 +23,22 @@ Solen sken, magiska vyer och glada skratt från lekande barn innebar att tiden b
 
 ![](images/gausjosjobron-2.jpg?w=576 "Foto: Brellir")
 
-Foto: Brellir
-
-![](/images/gausjosjobron-3.jpg?w=768 "Foto: Brellir")
+![](images/gausjosjobron-3.jpg?w=768 "Foto: Brellir")
 
 Magiska vyer! Foto: Brellir
 
-![](http://www.turfvasterbotten.se/wp-content/uploads/2022/05/gausjosjobron-4-1.jpg?w=576)
+![](images/gausjosjobron-4-1.jpg?w=576 "Foto: Brellir")
 
 Fikande grabbar. Foto: Brellir
 
-![](http://www.turfvasterbotten.se/wp-content/uploads/2022/05/gausjosjobron-5.jpg?w=576)
+![]images/gausjosjobron-5.jpg?w=576)
 
-Foto: Brellir
+![](images/gausjosjobron-6-1.jpg?w=576 "Galonbyxeåkning! Foto: Brellir")
 
-![](http://www.turfvasterbotten.se/wp-content/uploads/2022/05/gausjosjobron-6-1.jpg?w=576)
-
-Galonbyxeåkning! Foto: Brellir
-
-![](http://www.turfvasterbotten.se/wp-content/uploads/2022/05/gausjosjobron-7.jpg?w=576)
-
-Foto: Brellir
+![](images/gausjosjobron-7.jpg?w=576 "Foto: Brellir")
 
 Jag har vandrat upp till Gausjosjö sameviste ett par gånger innan, både sommar och höst, och kan varmt rekommendera att ta sig tiden att gå hela vägen fram till samevistet. Totala sträckan från vägen till samevistet är 2,5 kilometer och uppskattningsvis ligger zonen en kilometer innan samevistet. Sträckan bjuder på många fantastiska vyer och nu dessutom en zon!
 
-![](http://www.turfvasterbotten.se/wp-content/uploads/2022/05/gausjosjobron-8.jpg?w=755)
-
-Snöfritt! Foto: Brellir
+![](images/gausjosjobron-8.jpg?w=755 "Snöfritt! Foto: Brellir")
 
 /Brellir
