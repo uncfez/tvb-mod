@@ -23,9 +23,7 @@ Solen sken, magiska vyer och glada skratt från lekande barn innebar att tiden b
 
 ![](images/gausjosjobron-2.jpg?w=576 "Foto: Brellir")
 
-![](images/gausjosjobron-3.jpg?w=768 "Foto: Brellir")
-
-Magiska vyer! Foto: Brellir
+![](images/gausjosjobron-3.jpg?w=768 "Magiska vyer! Foto: Brellir")
 
 ![](images/gausjosjobron-4-1.jpg?w=576 "Foto: Brellir")
 
