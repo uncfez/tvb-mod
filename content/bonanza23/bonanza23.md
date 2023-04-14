@@ -11,4 +11,4 @@ tags:
 youtube: "1WamMrt5nhc"
 vimeo: ""       # https://vimeo.com/239830182 -> "239830182"
 ---
-I maj 2023 kommer Bonanzan att hållas i **Umeå!** Hurra!! 
+I maj 2023 kommer Bonanzan att hållas i **Umeå!** Hurra!!! 
